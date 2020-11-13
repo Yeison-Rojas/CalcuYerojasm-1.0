@@ -1,9 +1,8 @@
 # CalcuYerojasm-1.0
-Nombre del programa: CalcuYerojasm 1.0
+**Nombre del programa:** CalcuYerojasm 1.0
 
 **Realizado por:**
-Yeison Darío Rojas Mora
-
+Yeison Darío Rojas Mora - 
 Estudiante de Ingenieria Electronica
 
 **Objetivo:** Programa que permite hacer operaciones matematicas basicas
@@ -19,3 +18,10 @@ Format: ![Alt Text](https://github.com/Yeison-Rojas/CalcuYerojasm-1.0/blob/main/
 
 ![Aquí la descripción de la imagen por si no carga]
 (https://github.com/Yeison-Rojas/CalcuYerojasm-1.0/blob/main/Imagenes%20de%20referencia/Principal.png)
+
+
+![Imagen al oprimir un boton ](Imagenes de referencia/Principal2.png)
+Format: ![Alt Text](https://github.com/Yeison-Rojas/CalcuYerojasm-1.0/blob/main/Imagenes%20de%20referencia/Principal2.png?raw=true)
+
+![Aquí la descripción de la imagen por si no carga]
+(https://github.com/Yeison-Rojas/CalcuYerojasm-1.0/blob/main/Imagenes%20de%20referencia/Principal2.png)
