@@ -14,8 +14,8 @@ Descargar la carpeta "Codigo_Fuente_Calculadora" y abrir archivo .py, mantener l
 
 Utiliza unicamente la libreria tkinter.
 
-![GitHub Logo](/Imagenes de referencia /Principal.png)
-Format: ![Alt Text](url)
+![GitHub Logo](Imagenes de referencia/Principal.png)
+Format: ![Alt Text](https://github.com/Yeison-Rojas/CalcuYerojasm-1.0/blob/main/Imagenes%20de%20referencia/Principal.png?raw=true)
 
 https://github.com/Yeison-Rojas/CalcuYerojasm-1.0/blob/main/Imagenes%20de%20referencia/Principal.png
 
